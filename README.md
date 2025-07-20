@@ -2,20 +2,31 @@
 
 🎓 Final-year Engineering Student | 💻 MERN & AI Developer  
 🧠 Passionate about building with LLMs, GenAI & Voice AI  
-🌱 Actively developing tools in automation, scraping & sustainability  
+🌱 Actively developing tools in automation, scraping & sustainability
 
 ---
 
-🛠️ **Skills**  
-`MongoDB` `Express.js` `React` `Node.js` `Java` `Python` `ML` `Deep Learning` `LLMs` `GenAI`  `Data Analytics` `Power BI` `Tableau`
+### 🛠️ Skills & Tech Stack
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-006699?style=for-the-badge&logo=keras&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 ---
 
-### 🚀 Some Featured Projects I’ve worked on
-- 🌍 [Earthiest](https://github.com/VICKY-0017/Earthiest) – Image-based tree plantation verification system  
-- 🤖 [Email Generator using GenAI](https://github.com/VICKY-0017/Email_generator-GenAI--main)  
-- 📈 [Investment Analysis Bot](https://github.com/VICKY-0017/Invesment_Analysis_Bot) with Python & finance APIs  
-- 🚸 [ML Models](https://github.com/VICKY-0017/Pedestrian_Detection_ML_Model) – Child & Pedestrian detection
+### 🚀 Some Featured Projects I’ve Worked On
+
+- 🌍 [**Earthiest**](https://github.com/VICKY-0017/Earthiest) – Image-based tree plantation verification system  
+- 🤖 [**Email Generator using GenAI**](https://github.com/VICKY-0017/Email_generator-GenAI--main) – Auto-generates emails using LLMs  
+- 📈 [**Investment Analysis Bot**](https://github.com/VICKY-0017/Invesment_Analysis_Bot) – Financial insights with Python  
+- 🚸 [**Pedestrian Detection ML Model**](https://github.com/VICKY-0017/Pedestrian_Detection_ML_Model) – Object detection with ML
 
 ---
 
@@ -31,24 +42,33 @@
 
 ---
 
-### 🌱 What I’m currently learning and building
+### 🌱 What I’m Currently Learning and Building
+
 - Agentic AI with Google GenAI processors  
 - Real-world AI deployment with Flask & Selenium  
-- Voice Assistant integrations + AI pipelines with `n8n`
+- Voice Assistant integrations + AI pipelines using `n8n`
 
 ---
 
 ### 🤝 Let’s Collaborate On
+
 - Full-stack AI products  
 - Sustainability-focused tech  
 - AI / ML-powered automation tools
 
 ---
 
-### 📫 How to reach me
+### 📫 How to Reach Me
+
 - 🌐 [Portfolio Website](https://portfolio-yj8s.onrender.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/vignesh-babu-t-r-880880250)  
-- 📊 [LeetCode](https://leetcode.com/u/vicky_3110) | [HackerRank](https://www.hackerrank.com/profile/t_r_vignesh17)
+- 💼 [LinkedIn](https://linkedin.com/in/vignesh-babu-t-r-880880250)
+
+---
+
+### 🔗 Competitive Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vicky_3110)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/t_r_vignesh17)
 
 ---
 

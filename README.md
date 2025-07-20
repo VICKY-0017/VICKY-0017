@@ -6,6 +6,11 @@
 
 ---
 
+🛠️ **Skills**  
+`MongoDB` `Express.js` `React` `Node.js` `Python` `Selenium` `Flask` `LLMs` `GenAI`  
+
+---
+
 ### 🚀 Some Featured Projects I’ve worked on
 - 🌍 [Earthiest](https://github.com/VICKY-0017/Earthiest) – Image-based tree plantation verification system  
 - 🤖 [Email Generator using GenAI](https://github.com/VICKY-0017/Email_generator-GenAI--main)  

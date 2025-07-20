@@ -7,7 +7,7 @@
 ---
 
 🛠️ **Skills**  
-`MongoDB` `Express.js` `React` `Node.js` `Python` `Selenium` `Flask` `LLMs` `GenAI`  
+`MongoDB` `Express.js` `React` `Node.js` `Java` `Python` `ML` `Deep Learning` `LLMs` `GenAI`  `Data Analytics` `Power BI` `Tableau`
 
 ---
 

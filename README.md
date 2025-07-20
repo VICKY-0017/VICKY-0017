@@ -19,6 +19,18 @@
 
 ---
 
+### 👨‍💻 Freelance Highlight
+
+📚 **Spoken English E-learning Platform** (via Fiverr) – Built with **MERN stack**  
+- Teacher dashboard with full control & analytics  
+- Student portal for learning, submissions & feedback  
+- 🤖 Chatbot for conversation practice & doubt posting  
+- 📊 Performance tracking with charts  
+- 🔐 Secure auth & role-based access  
+✅ Delivered with 5⭐ client satisfaction
+
+---
+
 ### 🌱 What I’m currently learning and building
 - Agentic AI with Google GenAI processors  
 - Real-world AI deployment with Flask & Selenium  

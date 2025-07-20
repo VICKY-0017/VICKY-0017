@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Vignesh BABU T R
 
-🎓 Final-Year Engineering Student | 💻 MERN & AI Developer  
+🎓 Final-Year CSE Student | 💻 MERN & AI Developer  
 🧠 Passionate about LLMs, GenAI & Voice AI | 🌱 Innovating in Automation & Sustainability
 
 ---

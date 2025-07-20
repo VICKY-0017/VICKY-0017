@@ -1,12 +1,11 @@
 ## 👋 Hi there, I'm Vignesh BABU T R
 
-🎓 Final-year Engineering Student | 💻 MERN & AI Developer  
-🧠 Passionate about building with LLMs, GenAI & Voice AI  
-🌱 Actively developing tools in automation, scraping & sustainability
+🎓 Final-Year Engineering Student | 💻 MERN & AI Developer  
+🧠 Passionate about LLMs, GenAI & Voice AI | 🌱 Innovating in Automation & Sustainability
 
 ---
 
-### 🛠️ Skills & Tech Stack
+### 🛠️ Tech Stack & Skills
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -21,70 +20,65 @@
 
 ---
 
-### 🚀 Some Featured Projects I’ve Worked On
+### 🚀 Featured Projects
 
-- 🌍 [**Earthiest**](https://github.com/VICKY-0017/Earthiest) – Image-based tree plantation verification system  
-- 🤖 [**Email Generator using GenAI**](https://github.com/VICKY-0017/Email_generator-GenAI--main) – Auto-generates emails using LLMs  
-- 📈 [**Investment Analysis Bot**](https://github.com/VICKY-0017/Invesment_Analysis_Bot) – Financial insights with Python  
-- 🚸 [**Pedestrian Detection ML Model**](https://github.com/VICKY-0017/Pedestrian_Detection_ML_Model) – Object detection with ML
-
----
-
-### 👨‍💻 Freelance Highlight
-
-📚 **Spoken English E-learning Platform** (via Fiverr) – Built with **MERN stack**  
-- Teacher dashboard with full control & analytics  
-- Student portal for learning, submissions & feedback  
-- 🤖 Chatbot for conversation practice & doubt posting  
-- 📊 Performance tracking with charts  
-- 🔐 Secure auth & role-based access  
-✅ Delivered with 5⭐ client satisfaction
+- 🌍 [**Earthiest**](https://github.com/VICKY-0017/Earthiest): Image-based tree plantation verification system
+- 🤖 [**GenAI Email Generator**](https://github.com/VICKY-0017/Email_generator-GenAI--main): Automated email writing using LLMs
+- 📈 [**Investment Analysis Bot**](https://github.com/VICKY-0017/Invesment_Analysis_Bot): Python-powered insights for finance
+- 🚸 [**Pedestrian Detection ML Model**](https://github.com/VICKY-0017/Pedestrian_Detection_ML_Model): Object detection using machine learning
 
 ---
 
-### 🌱 What I’m Currently Learning and Building
+### 👨‍💻 Freelance Work
 
-- Agentic AI with Google GenAI processors  
-- Real-world AI deployment with Flask & Selenium  
-- Voice Assistant integrations + AI pipelines using `n8n`
-
----
-
-### 🤝 Let’s Collaborate On
-
-- Full-stack AI products  
-- Sustainability-focused tech  
-- AI / ML-powered automation tools
+📚 **Spoken English E-learning Platform** (via Fiverr) — Built with **MERN Stack**  
+A comprehensive platform built for students and teachers to improve English fluency:
+- 🎛️ Teacher dashboard with full analytics and controls
+- 🎓 Student portal with lessons, submissions, and feedback features
+- 🤖 Chatbot for real-time conversation practice and doubt resolution
+- 📊 Performance tracking using visual dashboards
+- 🔐 Secure login with role-based access control  
+✅ Delivered with ⭐⭐⭐⭐⭐ client feedback
 
 ---
 
-### 📫 How to Reach Me
+### 🌱 Currently Learning & Building
+
+- 🔁 Agentic AI with Google GenAI Processors  
+- 🔧 Real-world AI deployment with Flask & Selenium  
+- 🎙️ Voice Assistants + AI automation pipelines (n8n, Together.ai)
+
+---
+
+### 🤝 Open to Collaborate On
+
+- 🧠 Full-stack AI/ML-powered platforms  
+- 🌿 Tech for social or environmental impact  
+- 🔍 Automation, scraping, and data-driven tools
+
+---
+
+### 📫 Connect With Me
 
 - 🌐 [Portfolio Website](https://portfolio-yj8s.onrender.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/vignesh-babu-t-r-880880250)
 
 ---
 
-### 🔗 Competitive Profiles
+### 💡 Competitive Profiles
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/t_r_vigneshbabu1)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/t_r_vigneshbabu1)  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/vicky_3110?theme=light&font=Roboto&ext=heatmap)](https://leetcode.com/vicky_3110/)
 
 ---
 
-### 📊 LeetCode Stats
+### 📊 GitHub Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/vicky_3110?theme=light&font=Roboto&ext=heatmap)](https://leetcode.com/vicky_3110/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VICKY-0017&show_icons=true&theme=default&hide=contribs)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=VICKY-0017&theme=default)](https://git.io/streak-stats)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VICKY-0017&layout=compact)
 
+---
 
-### 📊 GitHub Activity
-
-![Vignesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VICKY-0017&show_icons=true&theme=default&hide=contribs)
-[![GitHub Streak](https://streak-stats.demolab.com?user=VICKY-0017&theme=default)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VICKY-0017&layout=compact)
-
-
-> 💡 *"Build to learn. Solve to impact."*
-
-<!--
-**VICKY-0017/VICKY-0017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+> 💬 *"Build to learn. Solve to impact."*  
+> — *Vignesh BABU T R*

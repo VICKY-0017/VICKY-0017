@@ -22,10 +22,10 @@
 
 ### 🚀 Featured Projects
 
-- 🌍 [**Earthiest**](https://github.com/VICKY-0017/Earthiest): Image-based tree plantation verification system
-- 🤖 [**GenAI Email Generator**](https://github.com/VICKY-0017/Email_generator-GenAI--main): Automated email writing using LLMs
-- 📈 [**Investment Analysis Bot**](https://github.com/VICKY-0017/Invesment_Analysis_Bot): Python-powered insights for finance
-- 🚸 [**Pedestrian Detection ML Model**](https://github.com/VICKY-0017/Pedestrian_Detection_ML_Model): Object detection using machine learning
+[![Earthiest](https://img.shields.io/badge/Earthiest🌱-View%20Project-228B22?style=for-the-badge&logo=tree&logoColor=white)](https://github.com/VICKY-0017/Earthiest)
+[![GenAI Email Generator](https://img.shields.io/badge/Email%20GenAI📧-LLM%20Tool-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/VICKY-0017/Email_generator-GenAI--main)
+[![Investment Bot](https://img.shields.io/badge/Finance%20Bot💰-Python%20ML-1E90FF?style=for-the-badge&logo=python&logoColor=white)](https://github.com/VICKY-0017/Invesment_Analysis_Bot)
+[![Pedestrian Detection](https://img.shields.io/badge/Pedestrian🚶‍♀️-ML%20Model-FF4500?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/VICKY-0017/Pedestrian_Detection_ML_Model)
 
 ---
 
@@ -60,23 +60,22 @@ A comprehensive platform built for students and teachers to improve English flue
 
 ### 📫 Connect With Me
 
-- 🌐 [Portfolio Website](https://portfolio-yj8s.onrender.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/vignesh-babu-t-r-880880250)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Site-121212?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://portfolio-yj8s.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-babu-t-r-880880250)
 
 ---
 
 ### 💡 Competitive Profiles
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/t_r_vigneshbabu1)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/t_r_vigneshbabu1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/vicky_3110/)
 
-#### LeetCode Stats
-
+#### 📈 LeetCode Stats  
 [![LeetCode Stats](https://leetcard.jacoblin.cool/vicky_3110?theme=light&font=Roboto&ext=heatmap)](https://leetcode.com/vicky_3110/)
 
 ---
 
 ### 📊 GitHub Stats
-
 
 <table>
   <tr>
@@ -94,7 +93,7 @@ A comprehensive platform built for students and teachers to improve English flue
   </tr>
 </table>
 
-
+---
 
 > 💬 *"Build to learn. Solve to impact."*  
 > — *Vignesh BABU T R*

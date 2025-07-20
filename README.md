@@ -67,10 +67,15 @@
 
 ### 🔗 Competitive Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vicky_3110)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/t_r_vignesh17)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/t_r_vigneshbabu1)
 
 ---
+
+### 📊 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/vicky_3110?theme=light&font=Roboto&ext=heatmap)](https://leetcode.com/vicky_3110/)
+
+
 
 > 💡 *"Build to learn. Solve to impact."*
 

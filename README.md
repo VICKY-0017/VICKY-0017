@@ -22,10 +22,18 @@
 
 ### 🚀 Featured Projects
 
-[![Earthiest](https://img.shields.io/badge/Earthiest🌱-View%20Project-228B22?style=for-the-badge&logo=tree&logoColor=white)](https://github.com/VICKY-0017/Earthiest)
-[![GenAI Email Generator](https://img.shields.io/badge/Email%20GenAI📧-LLM%20Tool-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/VICKY-0017/Email_generator-GenAI--main)
-[![Investment Bot](https://img.shields.io/badge/Finance%20Bot💰-Python%20ML-1E90FF?style=for-the-badge&logo=python&logoColor=white)](https://github.com/VICKY-0017/Invesment_Analysis_Bot)
-[![Pedestrian Detection](https://img.shields.io/badge/Pedestrian🚶‍♀️-ML%20Model-FF4500?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/VICKY-0017/Pedestrian_Detection_ML_Model)
+[![Earthiest](https://img.shields.io/badge/Earthiest🌱-View%20Project-228B22?style=for-the-badge&logo=tree&logoColor=white)](https://github.com/VICKY-0017/Earthiest)  
+🌿 **Earthiest** — AI-powered tree plantation verification with image recognition and a reward system.
+
+[![GenAI Email Generator](https://img.shields.io/badge/Email%20GenAI📧-LLM%20Tool-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/VICKY-0017/Email_generator-GenAI--main)  
+🤖 **GenAI Email Generator** — Smart LLM-powered email writing tool for rapid and contextual responses.
+
+[![Investment Bot](https://img.shields.io/badge/Finance%20Bot💰-Python%20ML-1E90FF?style=for-the-badge&logo=python&logoColor=white)](https://github.com/VICKY-0017/Invesment_Analysis_Bot)  
+📊 **Investment Analysis Bot** — Python tool for analyzing financial trends and offering data-driven insights.
+
+[![Pedestrian Detection](https://img.shields.io/badge/Pedestrian🚶‍♀️-ML%20Model-FF4500?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/VICKY-0017/Pedestrian_Detection_ML_Model)  
+🚸 **Pedestrian Detection** — Real-time pedestrian detection using OpenCV and TensorFlow.
+
 
 ---
 

@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 What I’ve worked on
+### 🚀 Some Featured Projects I’ve worked on
 - 🌍 [Earthiest](https://github.com/VICKY-0017/Earthiest) – Image-based tree plantation verification system  
 - 🤖 [Email Generator using GenAI](https://github.com/VICKY-0017/Email_generator-GenAI--main)  
 - 📈 [Investment Analysis Bot](https://github.com/VICKY-0017/Invesment_Analysis_Bot) with Python & finance APIs  
@@ -14,7 +14,7 @@
 
 ---
 
-### 🌱 What I’m currently learning
+### 🌱 What I’m currently learning and building
 - Agentic AI with Google GenAI processors  
 - Real-world AI deployment with Flask & Selenium  
 - Voice Assistant integrations + AI pipelines with `n8n`
@@ -24,7 +24,7 @@
 ### 🤝 Let’s Collaborate On
 - Full-stack AI products  
 - Sustainability-focused tech  
-- ML-powered automation tools
+- AI / ML-powered automation tools
 
 ---
 

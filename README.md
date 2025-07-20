@@ -1,16 +1,24 @@
-## Hi there 👋
+### 👋 Hi there! I'm Vignesh BABU T R
 
-<!--
-**VICKY-0017/VICKY-0017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Engineering student passionate about building smart, impactful tech.  
+💻 MERN Stack & AI Developer | Working with LLMs, GenAI, and Voice Assistants  
+⚙️ Projects in scraping, automation, and green-tech innovation 🌱  
 
-Here are some ideas to get you started:
+🛠️ **Skills**  
+`MongoDB` `Express.js` `React` `Node.js` `Python` `Selenium` `Flask` `LLMs` `GenAI`  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **Featured Projects**  
+- 🌍 [Earthiest](https://github.com/VICKY-0017/Earthiest): Image-based tree planting verification  
+- 🤖 [GenAI Email Bot](https://github.com/VICKY-0017/Email_generator-GenAI--main): Auto-email generator using LLMs  
+- 📈 [Investment Analysis Bot](https://github.com/VICKY-0017/Invesment_Analysis_Bot)  
+- 🚸 [ML Models](https://github.com/VICKY-0017/Child_detection_ML_model) for pedestrian & child detection  
+
+🔗 **Links**  
+🌐 [Portfolio](https://portfolio-yj8s.onrender.com)  
+💼 [LinkedIn](https://linkedin.com/in/vignesh-babu-t-r-880880250)  
+📊 [LeetCode](https://leetcode.com/u/vicky_3110) | [HackerRank](https://www.hackerrank.com/profile/t_r_vignesh17)
+
+---
+
+> "Build to learn. Solve to impact."
+

@@ -68,16 +68,31 @@ A comprehensive platform built for students and teachers to improve English flue
 ### 💡 Competitive Profiles
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/t_r_vigneshbabu1)  
+
+#### LeetCode Stats
+
 [![LeetCode Stats](https://leetcard.jacoblin.cool/vicky_3110?theme=light&font=Roboto&ext=heatmap)](https://leetcode.com/vicky_3110/)
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VICKY-0017&show_icons=true&theme=default&hide=contribs)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=VICKY-0017&theme=default)](https://git.io/streak-stats)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VICKY-0017&layout=compact)
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=VICKY-0017&show_icons=true&theme=default&hide=contribs" alt="GitHub Stats" width="100%"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=VICKY-0017&theme=default" alt="GitHub Streak" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VICKY-0017&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 ---
 
 > 💬 *"Build to learn. Solve to impact."*  

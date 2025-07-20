@@ -76,6 +76,12 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/vicky_3110?theme=light&font=Roboto&ext=heatmap)](https://leetcode.com/vicky_3110/)
 
 
+### 📊 GitHub Activity
+
+![Vignesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VICKY-0017&show_icons=true&theme=default&hide=contribs)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VICKY-0017&theme=default)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VICKY-0017&layout=compact)
+
 
 > 💡 *"Build to learn. Solve to impact."*
 

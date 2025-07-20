@@ -1,24 +1,42 @@
-### 👋 Hi there! I'm Vignesh BABU T R
+## 👋 Hi there, I'm Vignesh BABU T R
 
-🎓 Final-year Engineering student passionate about building smart, impactful tech.  
-💻 MERN Stack & AI Developer | Working with LLMs, GenAI, and Voice Assistants  
-⚙️ Projects in scraping, automation, and green-tech innovation 🌱  
-
-🛠️ **Skills**  
-`MongoDB` `Express.js` `React` `Node.js` `Python` `Selenium` `Flask` `LLMs` `GenAI`  
-
-📌 **Featured Projects**  
-- 🌍 [Earthiest](https://github.com/VICKY-0017/Earthiest): Image-based tree planting verification  
-- 🤖 [GenAI Email Bot](https://github.com/VICKY-0017/Email_generator-GenAI--main): Auto-email generator using LLMs  
-- 📈 [Investment Analysis Bot](https://github.com/VICKY-0017/Invesment_Analysis_Bot)  
-- 🚸 [ML Models](https://github.com/VICKY-0017/Child_detection_ML_model) for pedestrian & child detection  
-
-🔗 **Links**  
-🌐 [Portfolio](https://portfolio-yj8s.onrender.com)  
-💼 [LinkedIn](https://linkedin.com/in/vignesh-babu-t-r-880880250)  
-📊 [LeetCode](https://leetcode.com/u/vicky_3110) | [HackerRank](https://www.hackerrank.com/profile/t_r_vignesh17)
+🎓 Final-year Engineering Student | 💻 MERN & AI Developer  
+🧠 Passionate about building with LLMs, GenAI & Voice AI  
+🌱 Actively developing tools in automation, scraping & sustainability  
 
 ---
 
-> "Build to learn. Solve to impact."
+### 🚀 What I’ve worked on
+- 🌍 [Earthiest](https://github.com/VICKY-0017/Earthiest) – Image-based tree plantation verification system  
+- 🤖 [Email Generator using GenAI](https://github.com/VICKY-0017/Email_generator-GenAI--main)  
+- 📈 [Investment Analysis Bot](https://github.com/VICKY-0017/Invesment_Analysis_Bot) with Python & finance APIs  
+- 🚸 [ML Models](https://github.com/VICKY-0017/Pedestrian_Detection_ML_Model) – Child & Pedestrian detection
 
+---
+
+### 🌱 What I’m currently learning
+- Agentic AI with Google GenAI processors  
+- Real-world AI deployment with Flask & Selenium  
+- Voice Assistant integrations + AI pipelines with `n8n`
+
+---
+
+### 🤝 Let’s Collaborate On
+- Full-stack AI products  
+- Sustainability-focused tech  
+- ML-powered automation tools
+
+---
+
+### 📫 How to reach me
+- 🌐 [Portfolio Website](https://portfolio-yj8s.onrender.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/vignesh-babu-t-r-880880250)  
+- 📊 [LeetCode](https://leetcode.com/u/vicky_3110) | [HackerRank](https://www.hackerrank.com/profile/t_r_vignesh17)
+
+---
+
+> 💡 *"Build to learn. Solve to impact."*
+
+<!--
+**VICKY-0017/VICKY-0017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->

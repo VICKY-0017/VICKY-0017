@@ -7,20 +7,20 @@
 
 ### 🛠️ Tech Stack & Skills
 
-🧩 Core Languages
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /> </p>
+<div align="center">
 
-🧱 Frameworks
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" /> </p>
+## 🛠️ Tech Stack & Skills
 
-🗄️ Databases
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" /> </p>
+| Category | Technologies |
+|----------|--------------|
+| 🧩 **Core Languages** | <a href="https://www.java.com/" title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/></a> &nbsp; Java &nbsp;&nbsp;&nbsp; <a href="https://www.python.org/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/></a> &nbsp; Python &nbsp;&nbsp;&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/></a> &nbsp; HTML5 &nbsp;&nbsp;&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/></a> &nbsp; CSS3 |
+| 🧱 **Frameworks** | <a href="https://react.dev/" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/></a> &nbsp; React &nbsp;&nbsp;&nbsp; <a href="https://nodejs.org/" title="Node.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/></a> &nbsp; Node.js |
+| 🗃️ **Databases** | <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/></a> &nbsp; MongoDB &nbsp;&nbsp;&nbsp; <a href="https://www.mysql.com/" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/></a> &nbsp; MySQL &nbsp;&nbsp;&nbsp; <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/></a> &nbsp; PostgreSQL |
+| 📊 **Visualization** | <a href="https://powerbi.microsoft.com/" title="Power BI"><img src="https://img.icons8.com/color/48/000000/power-bi.png" height="30"/></a> &nbsp; Power BI &nbsp;&nbsp;&nbsp; <a href="https://www.tableau.com/" title="Tableau"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" height="30"/></a> &nbsp; Tableau |
+| 🤖 **AI / ML / CV** | <a href="https://opencv.org/" title="OpenCV"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="30"/></a> &nbsp; OpenCV &nbsp;&nbsp;&nbsp; <a href="https://www.tensorflow.org/" title="TensorFlow"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="30"/></a> &nbsp; TensorFlow &nbsp;&nbsp;&nbsp; <a href="https://keras.io/" title="Keras"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="30"/></a> &nbsp; Keras |
 
-📊 Visualization
-<p align="left"> <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40" alt="Power BI" /> <img src="https://img.icons8.com/color/48/000000/tableau-software.png" height="40" alt="Tableau" /> </p>
+</div>
 
-🤖 AI / ML / CV
-<p align="left"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" alt="OpenCV" /> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="TensorFlow" /> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="40" alt="Keras" /> </p>
 
 ---
 

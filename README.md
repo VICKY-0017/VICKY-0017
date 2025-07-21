@@ -52,7 +52,7 @@
 <br><strong>Node.js</strong>
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="60" height="60" alt="Express.js" style="filter: invert(1);" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60" height="60" alt="Express.js" style="background-color: white; border-radius: 8px; padding: 8px;" />
 <br><strong>Express.js</strong>
 </td>
 </tr>

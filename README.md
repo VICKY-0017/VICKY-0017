@@ -75,13 +75,16 @@
 <br><strong>MySQL</strong>
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL" />
-<br><strong>PostgreSQL</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" height="60" alt="SQL" />
+<br><strong>SQL</strong>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas" />
+<br><strong>Pandas</strong>
 </td>
 </tr>
 </table>
 </div>
-
 <br>
 
  **Data Visualization**

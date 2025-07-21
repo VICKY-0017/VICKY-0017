@@ -45,7 +45,7 @@
 <tr>
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React" />
-<br><strong>React</strong>
+<br><strong>React.js</strong>
 </td>
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" />

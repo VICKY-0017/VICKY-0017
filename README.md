@@ -7,96 +7,134 @@
 
 <div align="center">
 
-# 🚀 Tech Stack
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" /> **Tech Stack**
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 40px 0;">
+<br>
 
-## 💻 Core Languages
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" style="margin-bottom: 8px;"/>
-    <span style="color: white; font-weight: bold; font-size: 14px;">Java</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" style="margin-bottom: 8px;"/>
-    <span style="color: white; font-weight: bold; font-size: 14px;">Python</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" style="margin-bottom: 8px;"/>
-    <span style="color: white; font-weight: bold; font-size: 14px;">HTML5</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" style="margin-bottom: 8px;"/>
-    <span style="color: white; font-weight: bold; font-size: 14px;">CSS3</span>
-  </div>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> **Core Languages**
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java" />
+<br><strong>Java</strong>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" />
+<br><strong>Python</strong>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" />
+<br><strong>HTML5</strong>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" />
+<br><strong>CSS3</strong>
+</td>
+</tr>
+</table>
 </div>
 
-## ⚡ Frameworks & Libraries
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" style="margin-bottom: 8px;"/>
-    <span style="color: white; font-weight: bold; font-size: 14px;">React</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" style="margin-bottom: 8px;"/>
-    <span style="color: white; font-weight: bold; font-size: 14px;">Node.js</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" style="margin-bottom: 8px;"/>
-    <span style="color: white; font-weight: bold; font-size: 14px;">Express.js</span>
-  </div>
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> **Frameworks & Libraries**
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React" />
+<br><strong>React</strong>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" />
+<br><strong>Node.js</strong>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" alt="Express.js" />
+<br><strong>Express.js</strong>
+</td>
+</tr>
+</table>
 </div>
 
-## 🗄️ Databases
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" style="margin-bottom: 8px;"/>
-    <span style="color: white; font-weight: bold; font-size: 14px;">MongoDB</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" style="margin-bottom: 8px;"/>
-    <span style="color: white; font-weight: bold; font-size: 14px;">MySQL</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" style="margin-bottom: 8px;"/>
-    <span style="color: white; font-weight: bold; font-size: 14px;">PostgreSQL</span>
-  </div>
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Cabinet.png" alt="File Cabinet" width="25" height="25" /> **Databases**
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" />
+<br><strong>MongoDB</strong>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL" />
+<br><strong>MySQL</strong>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL" />
+<br><strong>PostgreSQL</strong>
+</td>
+</tr>
+</table>
 </div>
 
-## 📊 Data Visualization
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
-    <img src="https://img.icons8.com/color/48/power-bi.png" height="50" style="margin-bottom: 8px;"/>
-    <span style="color: white; font-weight: bold; font-size: 14px;">Power BI</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
-    <img src="https://img.icons8.com/color/48/tableau-software.png" height="50" style="margin-bottom: 8px;"/>
-    <span style="color: white; font-weight: bold; font-size: 14px;">Tableau</span>
-  </div>
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> **Data Visualization**
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://img.icons8.com/color/96/power-bi.png" width="60" height="60" alt="Power BI" />
+<br><strong>Power BI</strong>
+</td>
+<td align="center" width="120">
+<img src="https://img.icons8.com/color/96/tableau-software.png" width="60" height="60" alt="Tableau" />
+<br><strong>Tableau</strong>
+</td>
+</tr>
+</table>
 </div>
 
-## 🤖 AI/ML & Computer Vision
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="50" style="margin-bottom: 8px;"/>
-    <span style="color: #333; font-weight: bold; font-size: 14px;">OpenCV</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="50" style="margin-bottom: 8px;"/>
-    <span style="color: #333; font-weight: bold; font-size: 14px;">TensorFlow</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="50" style="margin-bottom: 8px;"/>
-    <span style="color: #333; font-weight: bold; font-size: 14px;">Keras</span>
-  </div>
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="Robot" width="25" height="25" /> **AI/ML & Computer Vision**
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="60" height="60" alt="OpenCV" />
+<br><strong>OpenCV</strong>
+</td>
+<td align="center" width="120">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="60" height="60" alt="TensorFlow" />
+<br><strong>TensorFlow</strong>
+</td>
+<td align="center" width="120">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="60" height="60" alt="Keras" />
+<br><strong>Keras</strong>
+</td>
+</tr>
+</table>
 </div>
 
-</div>
+<br>
 
 ---
 
+<div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Always learning and exploring new technologies!
+
 </div>
 
+</div>
 
 ---
 

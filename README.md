@@ -5,54 +5,96 @@
 
 ---
 
+
 <div align="center">
 
 ## 🛠️ Tech Stack & Skills
 
-<table>
+<table style="border: none;">
   <tr>
-    <th align="center">🧩 Core Languages</th>
+    <th> Core Languages</th>
     <td align="center">
-      <a href="https://www.java.com/" title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/></a>&nbsp;
-      <a href="https://www.python.org/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/></a>&nbsp;
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/></a>&nbsp;
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/></a>
+      <div>
+        <a href="https://www.java.com/" title="Java">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/><br/>Java
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.python.org/" title="Python">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/><br/>Python
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/><br/>HTML5
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/><br/>CSS3
+        </a>
+      </div>
     </td>
   </tr>
   <tr>
-    <th align="center">🧱 Frameworks</th>
+    <th> Frameworks</th>
     <td align="center">
-      <a href="https://react.dev/" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/></a>&nbsp;
-      <a href="https://nodejs.org/" title="Node.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/></a>&nbsp;
-      <a href="https://expressjs.com/" title="Express.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35"/></a>
+      <div>
+        <a href="https://react.dev/" title="React">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/><br/>React
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://nodejs.org/" title="Node.js">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/><br/>Node.js
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://expressjs.com/" title="Express.js">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35"/><br/>Express.js
+        </a>
+      </div>
     </td>
   </tr>
   <tr>
-    <th align="center">🗃️ Databases</th>
+    <th> Databases</th>
     <td align="center">
-      <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35"/></a>&nbsp;
-      <a href="https://www.mysql.com/" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/></a>&nbsp;
-      <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/></a>
+      <div>
+        <a href="https://www.mongodb.com/" title="MongoDB">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35"/><br/>MongoDB
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.mysql.com/" title="MySQL">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/><br/>MySQL
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.postgresql.org/" title="PostgreSQL">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/><br/>PostgreSQL
+        </a>
+      </div>
     </td>
   </tr>
   <tr>
-    <th align="center">📊 Visualization</th>
+    <th> Visualization</th>
     <td align="center">
-      <a href="https://powerbi.microsoft.com/" title="Power BI"><img src="https://img.icons8.com/color/48/power-bi.png" height="35"/></a>&nbsp;
-      <a href="https://www.tableau.com/" title="Tableau"><img src="https://img.icons8.com/color/48/tableau-software.png" height="35"/></a>
+      <div>
+        <a href="https://powerbi.microsoft.com/" title="Power BI">
+          <img src="https://img.icons8.com/color/48/power-bi.png" height="35"/><br/>Power BI
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.tableau.com/" title="Tableau">
+          <img src="https://img.icons8.com/color/48/tableau-software.png" height="35"/><br/>Tableau
+        </a>
+      </div>
     </td>
   </tr>
   <tr>
-    <th align="center">🤖 AI / ML / CV</th>
+    <th> AI / ML / CV</th>
     <td align="center">
-      <a href="https://opencv.org/" title="OpenCV"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="35"/></a>&nbsp;
-      <a href="https://www.tensorflow.org/" title="TensorFlow"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="35"/></a>&nbsp;
-      <a href="https://keras.io/" title="Keras"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="35"/></a>
+      <div>
+        <a href="https://opencv.org/" title="OpenCV">
+          <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="35"/><br/>OpenCV
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.tensorflow.org/" title="TensorFlow">
+          <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="35"/><br/>TensorFlow
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://keras.io/" title="Keras">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="35"/><br/>Keras
+        </a>
+      </div>
     </td>
   </tr>
 </table>
 
 </div>
+
 
 
 

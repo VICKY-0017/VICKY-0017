@@ -7,11 +7,11 @@
 
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" /> **Tech Stack**
+ **Tech Stack**
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> **Core Languages**
+**Core Languages**
 
 <div align="center">
 <table>
@@ -38,7 +38,7 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> **Frameworks & Libraries**
+ **Frameworks & Libraries**
 
 <div align="center">
 <table>
@@ -61,7 +61,7 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Cabinet.png" alt="File Cabinet" width="25" height="25" /> **Databases**
+ **Databases**
 
 <div align="center">
 <table>
@@ -84,7 +84,7 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> **Data Visualization**
+ **Data Visualization**
 
 <div align="center">
 <table>
@@ -103,7 +103,7 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="Robot" width="25" height="25" /> **AI/ML & Computer Vision**
+ **AI/ML & Computer Vision**
 
 <div align="center">
 <table>
@@ -126,13 +126,7 @@
 
 <br>
 
----
 
-<div align="center">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Always learning and exploring new technologies!
-
-</div>
 
 </div>
 

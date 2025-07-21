@@ -4,58 +4,55 @@
 🧠 Passionate about LLMs, GenAI & Voice AI | 🌱 Innovating in Automation & Sustainability
 
 ---
-<h2 align="center">🛠️ Tech Stack & Skills</h2>
 
-<table align="center">
-  <thead>
-    <tr>
-      <th style="text-align:center">📁 Category</th>
-      <th style="text-align:center">🚀 Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>💡 Core Languages</strong></td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" /> 
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>⚙️ Frameworks</strong></td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>🗄️ Databases</strong></td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>📊 Visualization</strong></td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black" />
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>🧠 AI / ML / CV</strong></td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
-      </td>
-    </tr>
-  </tbody>
+<div align="center">
+
+## 🛠️ Tech Stack & Skills
+
+<table>
+  <tr>
+    <th align="center">🧩 Core Languages</th>
+    <td align="center">
+      <a href="https://www.java.com/" title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/></a>&nbsp;
+      <a href="https://www.python.org/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/></a>&nbsp;
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/></a>&nbsp;
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/></a>
+    </td>
+  </tr>
+  <tr>
+    <th align="center">🧱 Frameworks</th>
+    <td align="center">
+      <a href="https://react.dev/" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/></a>&nbsp;
+      <a href="https://nodejs.org/" title="Node.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/></a>&nbsp;
+      <a href="https://expressjs.com/" title="Express.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35"/></a>
+    </td>
+  </tr>
+  <tr>
+    <th align="center">🗃️ Databases</th>
+    <td align="center">
+      <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35"/></a>&nbsp;
+      <a href="https://www.mysql.com/" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/></a>&nbsp;
+      <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/></a>
+    </td>
+  </tr>
+  <tr>
+    <th align="center">📊 Visualization</th>
+    <td align="center">
+      <a href="https://powerbi.microsoft.com/" title="Power BI"><img src="https://img.icons8.com/color/48/power-bi.png" height="35"/></a>&nbsp;
+      <a href="https://www.tableau.com/" title="Tableau"><img src="https://img.icons8.com/color/48/tableau-software.png" height="35"/></a>
+    </td>
+  </tr>
+  <tr>
+    <th align="center">🤖 AI / ML / CV</th>
+    <td align="center">
+      <a href="https://opencv.org/" title="OpenCV"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="35"/></a>&nbsp;
+      <a href="https://www.tensorflow.org/" title="TensorFlow"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="35"/></a>&nbsp;
+      <a href="https://keras.io/" title="Keras"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="35"/></a>
+    </td>
+  </tr>
 </table>
+
+</div>
 
 
 

@@ -199,15 +199,21 @@ A comprehensive platform built for students and teachers to improve English flue
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VICKY-0017&show_icons=true&theme=default&hide=contribs" alt="GitHub Stats" />
-  <br/>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=VICKY-0017&theme=default" alt="GitHub Streak" />
-  </a>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VICKY-0017&layout=compact&theme=default" alt="Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=VICKY-0017&show_icons=true&theme=default&hide=contribs" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=VICKY-0017&theme=default" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VICKY-0017&layout=compact&theme=default" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 
 

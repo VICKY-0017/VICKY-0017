@@ -7,96 +7,93 @@
 
 <div align="center">
 
-<table style="border-collapse: separate; border-spacing: 20px 10px;">
-  <tr>
-    <th align="center" colspan="2" style="font-size: 22px;">🧩 Core Languages</th>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/></td>
-    <td><b>Java</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/></td>
-    <td><b>Python</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/></td>
-    <td><b>HTML5</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/></td>
-    <td><b>CSS3</b></td>
-  </tr>
+# 🚀 Tech Stack
 
-  <tr><td colspan="2"><br/></td></tr>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 40px 0;">
 
-  <tr>
-    <th align="center" colspan="2" style="font-size: 22px;">🧱 Frameworks</th>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/></td>
-    <td><b>React</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/></td>
-    <td><b>Node.js</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35"/></td>
-    <td><b>Express.js</b></td>
-  </tr>
+## 💻 Core Languages
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" style="margin-bottom: 8px;"/>
+    <span style="color: white; font-weight: bold; font-size: 14px;">Java</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" style="margin-bottom: 8px;"/>
+    <span style="color: white; font-weight: bold; font-size: 14px;">Python</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" style="margin-bottom: 8px;"/>
+    <span style="color: white; font-weight: bold; font-size: 14px;">HTML5</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" style="margin-bottom: 8px;"/>
+    <span style="color: white; font-weight: bold; font-size: 14px;">CSS3</span>
+  </div>
+</div>
 
-  <tr><td colspan="2"><br/></td></tr>
+## ⚡ Frameworks & Libraries
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" style="margin-bottom: 8px;"/>
+    <span style="color: white; font-weight: bold; font-size: 14px;">React</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" style="margin-bottom: 8px;"/>
+    <span style="color: white; font-weight: bold; font-size: 14px;">Node.js</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" style="margin-bottom: 8px;"/>
+    <span style="color: white; font-weight: bold; font-size: 14px;">Express.js</span>
+  </div>
+</div>
 
-  <tr>
-    <th align="center" colspan="2" style="font-size: 22px;">🗃️ Databases</th>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35"/></td>
-    <td><b>MongoDB</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/></td>
-    <td><b>MySQL</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/></td>
-    <td><b>PostgreSQL</b></td>
-  </tr>
+## 🗄️ Databases
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" style="margin-bottom: 8px;"/>
+    <span style="color: white; font-weight: bold; font-size: 14px;">MongoDB</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" style="margin-bottom: 8px;"/>
+    <span style="color: white; font-weight: bold; font-size: 14px;">MySQL</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" style="margin-bottom: 8px;"/>
+    <span style="color: white; font-weight: bold; font-size: 14px;">PostgreSQL</span>
+  </div>
+</div>
 
-  <tr><td colspan="2"><br/></td></tr>
+## 📊 Data Visualization
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
+    <img src="https://img.icons8.com/color/48/power-bi.png" height="50" style="margin-bottom: 8px;"/>
+    <span style="color: white; font-weight: bold; font-size: 14px;">Power BI</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
+    <img src="https://img.icons8.com/color/48/tableau-software.png" height="50" style="margin-bottom: 8px;"/>
+    <span style="color: white; font-weight: bold; font-size: 14px;">Tableau</span>
+  </div>
+</div>
 
-  <tr>
-    <th align="center" colspan="2" style="font-size: 22px;">📊 Visualization</th>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/power-bi.png" height="35"/></td>
-    <td><b>Power BI</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/tableau-software.png" height="35"/></td>
-    <td><b>Tableau</b></td>
-  </tr>
+## 🤖 AI/ML & Computer Vision
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="50" style="margin-bottom: 8px;"/>
+    <span style="color: #333; font-weight: bold; font-size: 14px;">OpenCV</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="50" style="margin-bottom: 8px;"/>
+    <span style="color: #333; font-weight: bold; font-size: 14px;">TensorFlow</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; padding: 15px; background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); min-width: 100px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="50" style="margin-bottom: 8px;"/>
+    <span style="color: #333; font-weight: bold; font-size: 14px;">Keras</span>
+  </div>
+</div>
 
-  <tr><td colspan="2"><br/></td></tr>
+</div>
 
-  <tr>
-    <th align="center" colspan="2" style="font-size: 22px;">🤖 AI / ML / CV</th>
-  </tr>
-  <tr>
-    <td><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="35"/></td>
-    <td><b>OpenCV</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="35"/></td>
-    <td><b>TensorFlow</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="35"/></td>
-    <td><b>Keras</b></td>
-  </tr>
-
-</table>
+---
 
 </div>
 

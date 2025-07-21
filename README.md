@@ -52,7 +52,7 @@
 <br><strong>Node.js</strong>
 </td>
 <td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60" height="60" alt="Express.js" style="background-color: white; border-radius: 8px; padding: 8px;" />
+<img src="https://skillicons.dev/icons?i=express" width="60" height="60" alt="Express.js" />
 <br><strong>Express.js</strong>
 </td>
 </tr>

@@ -205,7 +205,7 @@ A comprehensive platform built for students and teachers to improve English flue
       <img src="https://github-readme-stats.vercel.app/api?username=VICKY-0017&show_icons=true&theme=default&hide=contribs" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=VICKY-0017&theme=default" alt="GitHub Streak" />
+      <img src="https://raw.githubusercontent.com/VICKY-0017/VICKY-0017/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
     </td>
   </tr>
   <tr>

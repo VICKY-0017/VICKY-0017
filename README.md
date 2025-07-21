@@ -4,54 +4,95 @@
 🧠 Passionate about LLMs, GenAI & Voice AI | 🌱 Innovating in Automation & Sustainability
 
 ---
+<div align="center">
 
-<div align="center" style="padding: 20px; background-color: #0d1117; color: white; font-family: sans-serif;">
+## 🛠️ Tech Stack & Skills
 
-  <h2>🛠️ Tech Stack & Skills</h2>
-
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-
-    <div style="background-color: #161b22; border-radius: 10px; padding: 15px 25px; width: 200px;">
-      <h3 style="border-bottom: 1px solid #30363d;">Core Languages</h3>
-      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/> Java</p>
-      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/> Python</p>
-      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/> HTML5</p>
-      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/> CSS3</p>
-    </div>
-
-   
-    <div style="background-color: #161b22; border-radius: 10px; padding: 15px 25px; width: 200px;">
-      <h3 style="border-bottom: 1px solid #30363d;">Frameworks</h3>
-      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/> React</p>
-      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/> Node.js</p>
-      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30"/> Express.js</p>
-    </div>
-
-    <div style="background-color: #161b22; border-radius: 10px; padding: 15px 25px; width: 200px;">
-      <h3 style="border-bottom: 1px solid #30363d;">Databases</h3>
-      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/> MongoDB</p>
-      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/> MySQL</p>
-      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/> PostgreSQL</p>
-    </div>
-
-   
-    <div style="background-color: #161b22; border-radius: 10px; padding: 15px 25px; width: 200px;">
-      <h3 style="border-bottom: 1px solid #30363d;">Visualization</h3>
-      <p><img src="https://img.icons8.com/color/48/power-bi.png" height="30"/> Power BI</p>
-      <p><img src="https://img.icons8.com/color/48/tableau-software.png" height="30"/> Tableau</p>
-    </div>
-
-    
-    <div style="background-color: #161b22; border-radius: 10px; padding: 15px 25px; width: 200px;">
-      <h3 style="border-bottom: 1px solid #30363d;">AI / ML / CV</h3>
-      <p><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="30"/> OpenCV</p>
-      <p><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="30"/> TensorFlow</p>
-      <p><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="30"/> Keras</p>
-    </div>
-
-  </div>
+<table style="border: none;">
+  <tr>
+    <th> Core Languages</th>
+    <td align="center">
+      <div>
+        <a href="https://www.java.com/" title="Java">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/><br/>Java
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.python.org/" title="Python">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/><br/>Python
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/><br/>HTML5
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/><br/>CSS3
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <th> Frameworks</th>
+    <td align="center">
+      <div>
+        <a href="https://react.dev/" title="React">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/><br/>React
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://nodejs.org/" title="Node.js">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/><br/>Node.js
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://expressjs.com/" title="Express.js">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35"/><br/>Express.js
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <th> Databases</th>
+    <td align="center">
+      <div>
+        <a href="https://www.mongodb.com/" title="MongoDB">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35"/><br/>MongoDB
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.mysql.com/" title="MySQL">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/><br/>MySQL
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.postgresql.org/" title="PostgreSQL">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/><br/>PostgreSQL
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <th> Visualization</th>
+    <td align="center">
+      <div>
+        <a href="https://powerbi.microsoft.com/" title="Power BI">
+          <img src="https://img.icons8.com/color/48/power-bi.png" height="35"/><br/>Power BI
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.tableau.com/" title="Tableau">
+          <img src="https://img.icons8.com/color/48/tableau-software.png" height="35"/><br/>Tableau
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <th>🤖 AI / ML / CV</th>
+    <td align="center">
+      <div>
+        <a href="https://opencv.org/" title="OpenCV">
+          <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="35"/><br/>OpenCV
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.tensorflow.org/" title="TensorFlow">
+          <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="35"/><br/>TensorFlow
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://keras.io/" title="Keras">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="35"/><br/>Keras
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 
 ---

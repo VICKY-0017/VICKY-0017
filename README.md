@@ -11,7 +11,6 @@
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
 
-    <!-- Core Languages -->
     <div style="background-color: #161b22; border-radius: 10px; padding: 15px 25px; width: 200px;">
       <h3 style="border-bottom: 1px solid #30363d;">Core Languages</h3>
       <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/> Java</p>
@@ -20,7 +19,7 @@
       <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/> CSS3</p>
     </div>
 
-    <!-- Frameworks -->
+   
     <div style="background-color: #161b22; border-radius: 10px; padding: 15px 25px; width: 200px;">
       <h3 style="border-bottom: 1px solid #30363d;">Frameworks</h3>
       <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/> React</p>
@@ -28,7 +27,6 @@
       <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30"/> Express.js</p>
     </div>
 
-    <!-- Databases -->
     <div style="background-color: #161b22; border-radius: 10px; padding: 15px 25px; width: 200px;">
       <h3 style="border-bottom: 1px solid #30363d;">Databases</h3>
       <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/> MongoDB</p>
@@ -36,14 +34,14 @@
       <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/> PostgreSQL</p>
     </div>
 
-    <!-- Visualization -->
+   
     <div style="background-color: #161b22; border-radius: 10px; padding: 15px 25px; width: 200px;">
       <h3 style="border-bottom: 1px solid #30363d;">Visualization</h3>
       <p><img src="https://img.icons8.com/color/48/power-bi.png" height="30"/> Power BI</p>
       <p><img src="https://img.icons8.com/color/48/tableau-software.png" height="30"/> Tableau</p>
     </div>
 
-    <!-- AI / ML / CV -->
+    
     <div style="background-color: #161b22; border-radius: 10px; padding: 15px 25px; width: 200px;">
       <h3 style="border-bottom: 1px solid #30363d;">AI / ML / CV</h3>
       <p><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="30"/> OpenCV</p>

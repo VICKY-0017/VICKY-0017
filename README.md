@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Vignesh BABU T R
 
-🎓 Final-Year CSE Student | 💻 MERN & AI Developer  
-🧠 Passionate about LLMs, GenAI & Voice AI | 🌱 Innovating in Automation & Sustainability
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Final-Year+CSE+Student+%F0%9F%8E%93;MERN+%26+AI+Developer+%F0%9F%92%BB;Passionate+about+LLMs%2C+GenAI+%26+Voice+AI+%F0%9F%A7%A0;Innovating+in+Automation+%26+Sustainability+%F0%9F%8C%B1)
+
 
 ---
 

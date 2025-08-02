@@ -21,38 +21,17 @@
 
 <div align="center">
 
-## 🎯 **About Me**
+> ### 👤 About Me  
+> **📍 Location:** Tamil Nadu, India 🇮🇳  
+> Open to **Remote** and **Hybrid** roles  
+>
+> **🎓 Education:** B.E. in Computer Science Engineering  
+> Final Year Student (2025 Graduate)  
+>
+> **✅ Availability:**  
+> ✔️ Actively looking for opportunities  
+> 🚀 Ready to start **immediately**
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="300">
-<img src="https://img.icons8.com/fluency/96/india.png" width="60" alt="Location">
-<br><strong>📍 Location</strong>
-<br>Tamil Nadu, India 🇮🇳
-<br><small><em>Open to remote & hybrid work</em></small>
-</td>
-<td align="center" width="300">
-<img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="60" alt="Education">
-<br><strong>🎓 Education</strong>
-<br>Computer Science Engineering
-<br><small><em>Final Year Student</em></small>
-</td>
-<td align="center" width="300">
-<img src="https://img.icons8.com/fluency/96/available.png" width="60" alt="Availability">
-<br><strong>✅ Availability</strong>
-<br>Ready for opportunities
-<br><small><em>Immediate start possible</em></small>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-</div>
 
 ---
 

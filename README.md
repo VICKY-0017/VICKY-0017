@@ -5,9 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=800&height=60&lines=Final-Year+CSE+Student+%F0%9F%8E%93;MERN+%26+AI+Developer+%F0%9F%92%BB;Passionate+about+LLMs%2C+GenAI+%26+Voice+AI+%F0%9F%A7%A0;Innovating+in+Automation+%26+Sustainability+%F0%9F%8C%B1;Building+the+Future+with+Code+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
-
 <!-- Animated wave -->
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
 **Welcome to my digital universe!** 🌟
 

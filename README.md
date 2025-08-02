@@ -243,9 +243,7 @@ mindmap
 <br><small>Intelligent automation workflows</small>
 </td>
 <td align="center" width="200">
-  
 <img src="https://img.icons8.com/?size=100&id=puYkgzs0OEM0&format=png&color=000000" width="60" alt="Voice AI">
- 
 <br><strong>🎙️ Voice AI</strong>
 <br><small>Advanced automation pipelines</small>
 <br><small>Natural language interfaces</small>
@@ -359,22 +357,7 @@ mindmap
 </tr>
 </table>
 
-### 🚀 **Quick Response Guarantee**
 
-<div align="center">
-
-| 📧 **Email** | 💼 **LinkedIn** | 🌐 **Portfolio** |
-|-------------|----------------|------------------|
-| ⚡ **< 24 hours** | ⚡ **< 48 hours** | 🔄 **Always Updated** |
-| Project inquiries | Professional networking | Latest work showcase |
-
-</div>
-
-<br>
-
-**🎯 Currently accepting:** *Freelance Projects* • *Full-time Opportunities* • *Collaboration Invites*
-
-**🌟 Expertise available for:** *MERN Development* • *AI Integration* • *Data Solutions* • *Process Automation*
 
 </div>
 

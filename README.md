@@ -234,11 +234,18 @@ mindmap
 
 </div>
 
-**Currently Building:**
-- 🔁 **Agentic AI Systems** using Google GenAI Processors
-- 🎙️ **Voice AI Assistants** with advanced automation pipelines
-- 🔧 **Real-world AI Deployment** solutions with Flask & Selenium
-- 🌐 **Full-stack AI Platforms** for business automation
+### 🎯 **Currently Building & Exploring**
+
+<div align="center">
+
+| 🔥 **Active Projects** | 🛠️ **Technologies** | 📈 **Impact** |
+|------------------------|---------------------|---------------|
+| 🔁 **Agentic AI Systems** | ![Google AI](https://img.shields.io/badge/Google%20AI-4285F4?style=flat-square&logo=google&logoColor=white) ![GenAI](https://img.shields.io/badge/GenAI-FF6B6B?style=flat-square&logo=openai&logoColor=white) | Intelligent automation workflows |
+| 🎙️ **Voice AI Assistants** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) | Natural language interfaces |
+| 🔧 **AI Deployment Solutions** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) | Production-ready AI systems |
+| 🌐 **Full-stack AI Platforms** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | Business automation solutions |
+
+</div>
 
 ---
 
@@ -246,13 +253,52 @@ mindmap
 
 <div align="center">
 
-| 🔍 **Looking For** | 💡 **Can Contribute** |
-|-------------------|----------------------|
-| Full-time SDE Roles | MERN Stack Development |
-| AI/ML Engineering Positions | GenAI Integration |
-| Freelance Projects | Data Science Solutions |
-| Open Source Contributions | Automation Tools |
-| Startup Opportunities | Technical Leadership |
+### 🔍 **What I'm Looking For**
+
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://cdn-icons-png.flaticon.com/128/3135/3135715.png" width="60" height="60" alt="Job">
+<br><strong>Full-time SDE Roles</strong>
+<br><small>Ready to contribute to innovative teams</small>
+</td>
+<td align="center" width="200">
+<img src="https://cdn-icons-png.flaticon.com/128/8637/8637099.png" width="60" height="60" alt="AI/ML">
+<br><strong>AI/ML Engineering</strong>
+<br><small>Building next-gen AI solutions</small>
+</td>
+<td align="center" width="200">
+<img src="https://cdn-icons-png.flaticon.com/128/3281/3281289.png" width="60" height="60" alt="Freelance">
+<br><strong>Freelance Projects</strong>
+<br><small>Custom development solutions</small>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+<img src="https://cdn-icons-png.flaticon.com/128/25/25231.png" width="60" height="60" alt="Open Source">
+<br><strong>Open Source</strong>
+<br><small>Contributing to community projects</small>
+</td>
+<td align="center" width="200">
+<img src="https://cdn-icons-png.flaticon.com/128/3588/3588435.png" width="60" height="60" alt="Startup">
+<br><strong>Startup Opportunities</strong>
+<br><small>Early-stage innovation ventures</small>
+</td>
+<td align="center" width="200">
+<img src="https://cdn-icons-png.flaticon.com/128/3135/3135679.png" width="60" height="60" alt="Mentorship">
+<br><strong>Tech Mentorship</strong>
+<br><small>Sharing knowledge & learning</small>
+</td>
+</tr>
+</table>
+
+### 💡 **What I Bring to the Table**
+
+![MERN Stack](https://img.shields.io/badge/MERN%20Stack-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![GenAI Integration](https://img.shields.io/badge/GenAI%20Integration-Advanced-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-Proficient-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation%20Tools-Specialist-28A745?style=for-the-badge&logo=selenium&logoColor=white)
+![Technical Leadership](https://img.shields.io/badge/Tech%20Leadership-Experienced-6F42C1?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -262,13 +308,55 @@ mindmap
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-View%20My%20Work-FF6B6B?style=for-the-badge&logoColor=white)](https://portfolio-yj8s.onrender.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-babu-t-r-880880250)
-[![Email](https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t.r.vigneshbabu1@gmail.com)
+### 📬 **Let's Build Something Amazing Together**
+
+<table>
+<tr>
+<td align="center" width="250">
+<a href="https://portfolio-yj8s.onrender.com" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/128/2906/2906274.png" width="80" height="80" alt="Portfolio">
+<br><br>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-View%20My%20Work-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio">
+</a>
+<br><small><em>Explore my projects & case studies</em></small>
+</td>
+<td align="center" width="250">
+<a href="https://linkedin.com/in/vignesh-babu-t-r-880880250" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="80" height="80" alt="LinkedIn">
+<br><br>
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<br><small><em>Connect for opportunities & networking</em></small>
+</td>
+<td align="center" width="250">
+<a href="mailto:t.r.vigneshbabu1@gmail.com" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" width="80" height="80" alt="Email">
+<br><br>
+<img src="https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<br><small><em>Direct communication for projects</em></small>
+</td>
+</tr>
+</table>
+
+### 🚀 **Quick Response Guarantee**
+
+<div align="center">
+
+| 📧 **Email** | 💼 **LinkedIn** | 🌐 **Portfolio** |
+|-------------|----------------|------------------|
+| ⚡ **< 24 hours** | ⚡ **< 48 hours** | 🔄 **Always Updated** |
+| Project inquiries | Professional networking | Latest work showcase |
 
 </div>
 
----
+<br>
+
+**🎯 Currently accepting:** *Freelance Projects* • *Full-time Opportunities* • *Collaboration Invites*
+
+**🌟 Expertise available for:** *MERN Development* • *AI Integration* • *Data Solutions* • *Process Automation*
+
+</div>
 
 ## 🏅 **Competitive Programming**
 

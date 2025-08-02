@@ -42,29 +42,123 @@ const vignesh = {
 
 <div align="center">
 
-### **💻 Programming Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Core Languages**
 
-### **🚀 Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+<div align="center">
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java" />
+<br><strong>Java</strong>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" />
+<br><strong>Python</strong>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" />
+<br><strong>HTML5</strong>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" />
+<br><strong>CSS3</strong>
+</td>
+</tr>
+</table>
+</div>
 
-### **🗄️ Databases & Tools**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+<br>
 
-### **📊 Analytics & Visualization**
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+ **Frameworks & Libraries**
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React" />
+<br><strong>React.js</strong>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" />
+<br><strong>Node.js</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=express" width="60" height="60" alt="Express.js" />
+<br><strong>Express.js</strong>
+</td>
+</tr>
+</table>
+</div>
+<br>
+
+ **Databases**
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" />
+<br><strong>MongoDB</strong>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL" />
+<br><strong>MySQL</strong>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" height="60" alt="SQL" />
+<br><strong>SQL</strong>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas" />
+<br><strong>Pandas</strong>
+</td>
+</tr>
+</table>
+</div>
+<br>
+
+ **Data Visualization**
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://img.icons8.com/color/96/power-bi.png" width="60" height="60" alt="Power BI" />
+<br><strong>Power BI</strong>
+</td>
+<td align="center" width="120">
+<img src="https://img.icons8.com/color/96/tableau-software.png" width="60" height="60" alt="Tableau" />
+<br><strong>Tableau</strong>
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+ **AI/ML & Computer Vision**
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="60" height="60" alt="OpenCV" />
+<br><strong>OpenCV</strong>
+</td>
+<td align="center" width="120">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="60" height="60" alt="TensorFlow" />
+<br><strong>TensorFlow</strong>
+</td>
+<td align="center" width="120">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="60" height="60" alt="Keras" />
+<br><strong>Keras</strong>
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
 
 </div>
 

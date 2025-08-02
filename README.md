@@ -19,21 +19,6 @@
 
 ---
 
-<div align="center">
-
-> ### 👤 About Me  
-> **📍 Location:** Tamil Nadu, India 🇮🇳  
-> Open to **Remote** and **Hybrid** roles  
->
-> **🎓 Education:** B.E. in Computer Science Engineering  
-> Final Year Student (2025 Graduate)  
->
-> **✅ Availability:**  
-> ✔️ Actively looking for opportunities  
-> 🚀 Ready to start **immediately**
-
-
----
 
 ## 🛠️ **Tech Arsenal**
 

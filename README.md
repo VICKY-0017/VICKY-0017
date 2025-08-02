@@ -243,7 +243,7 @@ mindmap
 <br><small>Intelligent automation workflows</small>
 </td>
 <td align="center" width="200">
-<img src="https://img.icons8.com/fluency/96/voice-recognition.svg" width="60" alt="Voice AI">
+![Voice AI](https://img.icons8.com/fluency/96/voice-recognition.png) 
 <br><strong>🎙️ Voice AI</strong>
 <br><small>Advanced automation pipelines</small>
 <br><small>Natural language interfaces</small>

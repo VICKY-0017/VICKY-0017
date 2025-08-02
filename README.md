@@ -209,41 +209,77 @@ const vignesh = {
 
 ```mermaid
 mindmap
-  root((Vignesh's Tech Journey))
-    🤖 AI/ML
-      Generative AI
-      LLM Integration
-      Voice AI Systems
-      Computer Vision
-    💻 Development
-      MERN Stack
-      API Development
-      Database Design
-      UI/UX Implementation
-    🔧 Automation
-      Process Automation
-      Web Scraping
-      Data Pipelines
-      Deployment Tools
-    🌱 Innovation
-      Sustainability Tech
-      Social Impact Projects
-      Open Source Contribution
-      Research & Development
+  root((🚀 Vignesh's<br/>Tech Journey))
+    🤖((AI & ML))
+      🧠[Generative AI]
+      🔗[LLM Integration]  
+      🎙️[Voice AI Systems]
+      👁️[Computer Vision]
+      📊[Deep Learning]
+    💻((Full-Stack<br/>Development))
+      ⚛️[React.js]
+      🟢[Node.js & Express]
+      🗃️[Database Design]
+      🎨[UI/UX Design]
+      🔌[API Development]
+    🔧((Automation &<br/>DevOps))
+      🤖[Process Automation]
+      🕷️[Web Scraping]
+      📈[Data Pipelines]
+      🚀[CI/CD & Deployment]
+      ☁️[Cloud Integration]
+    🌱((Innovation &<br/>Impact))
+      🌍[Sustainability Tech]
+      💡[Social Impact]
+      🔓[Open Source]
+      🔬[R&D Projects]
+      📚[Tech Education]
 ```
+
+### 🎯 **Tech Stack Overview**
+
+| 🤖 **AI & Machine Learning** | 💻 **Development** | 🔧 **Automation** | 🌱 **Innovation** |
+|:---:|:---:|:---:|:---:|
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![GitHub](https://img.shields.io/badge/Open%20Source-181717?style=flat-square&logo=github&logoColor=white) |
+| ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) | ![Sustainability](https://img.shields.io/badge/Green%20Tech-00C851?style=flat-square&logo=leaf&logoColor=white) |
+| ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Research](https://img.shields.io/badge/Research-FF6B35?style=flat-square&logo=academia&logoColor=white) |
 
 </div>
 
-### 🎯 **Currently Building & Exploring**
+---
+
+### 🔥 **Current Learning & Building**
 
 <div align="center">
 
-| 🔥 **Active Projects** | 🛠️ **Technologies** | 📈 **Impact** |
-|------------------------|---------------------|---------------|
-| 🔁 **Agentic AI Systems** | ![Google AI](https://img.shields.io/badge/Google%20AI-4285F4?style=flat-square&logo=google&logoColor=white) ![GenAI](https://img.shields.io/badge/GenAI-FF6B6B?style=flat-square&logo=openai&logoColor=white) | Intelligent automation workflows |
-| 🎙️ **Voice AI Assistants** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) | Natural language interfaces |
-| 🔧 **AI Deployment Solutions** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) | Production-ready AI systems |
-| 🌐 **Full-stack AI Platforms** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | Business automation solutions |
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="60" alt="AI">
+<br><strong>🤖 Agentic AI</strong>
+<br><small>Google GenAI Processors</small>
+<br><small>Intelligent automation workflows</small>
+</td>
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/96/voice-recognition.png" width="60" alt="Voice AI">
+<br><strong>🎙️ Voice AI</strong>
+<br><small>Advanced automation pipelines</small>
+<br><small>Natural language interfaces</small>
+</td>
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/96/deployment.png" width="60" alt="Deployment">
+<br><strong>🚀 AI Deployment</strong>
+<br><small>Flask & Selenium integration</small>
+<br><small>Production-ready solutions</small>
+</td>
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/96/web-design.png" width="60" alt="Full-stack">
+<br><strong>🌐 Full-stack AI</strong>
+<br><small>Business automation platforms</small>
+<br><small>End-to-end solutions</small>
+</td>
+</tr>
+</table>
 
 </div>
 

@@ -21,18 +21,36 @@
 
 <div align="center">
 
-### 🎯 **About Me**
+## 🎯 **About Me**
 
-```javascript
-const vignesh = {
-    location: "Tamil Nadu, India 🇮🇳",
-    education: "Computer Science Engineering - Final Year",
-    specializations: ["Full-Stack Development", "AI/ML", "Data Science"],
-    currentFocus: ["Generative AI", "LLM Integration", "Voice AI", "Automation"],
-    workStyle: ["Problem Solver", "Innovation Driven", "Client Focused"],
-    availableFor: ["Full-time Opportunities", "Freelance Projects", "Collaborations"]
-};
-```
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="300">
+<img src="https://img.icons8.com/fluency/96/india.png" width="60" alt="Location">
+<br><strong>📍 Location</strong>
+<br>Tamil Nadu, India 🇮🇳
+<br><small><em>Open to remote & hybrid work</em></small>
+</td>
+<td align="center" width="300">
+<img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="60" alt="Education">
+<br><strong>🎓 Education</strong>
+<br>Computer Science Engineering
+<br><small><em>Final Year Student</em></small>
+</td>
+<td align="center" width="300">
+<img src="https://img.icons8.com/fluency/96/available.png" width="60" alt="Availability">
+<br><strong>✅ Availability</strong>
+<br>Ready for opportunities
+<br><small><em>Immediate start possible</em></small>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
 
 </div>
 

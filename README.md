@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=800&height=60&lines=MERN+%26+AI+Developer+%F0%9F%92%BB;Passionate+about+LLMs%2C+GenAI+%26+Voice+AI+%F0%9F%A7%A0;Innovating+in+Automation+%26+Sustainability+%F0%9F%8C%B1;Building+the+Future+with+Code+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=800&height=60&lines=MERN+%26+AI+Developer+%F0%9F%92%BB;I+Build+LLMs%2C+GenAI+%26+Voice+AI+%F0%9F%A7%A0;Innovating+in+Automation+%26+Sustainability+%F0%9F%8C%B1;Building+the+Future+with+Code+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 <!-- Animated wave -->
